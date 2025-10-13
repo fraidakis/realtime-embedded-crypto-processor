@@ -1,9 +1,10 @@
 .vscode
 build/
 versions/
+/main.c
+data/
+data/116-hours
 
-pi-data/
 report/
-results/
+plots/
 assignment.md
-main.c
