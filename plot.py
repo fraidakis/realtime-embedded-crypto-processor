@@ -914,7 +914,7 @@ def main():
     all available performance analysis visualizations.
     """
     # Initialize the cryptocurrency trading system visualizer
-    performance_visualizer = CryptocurrencyTradingSystemVisualizer('pi-data/116-hours/data') 
+    performance_visualizer = CryptocurrencyTradingSystemVisualizer('data/62-hours/data') 
     
     # Generate comprehensive performance analysis visualizations
     performance_visualizer.generate_comprehensive_analysis_suite()
