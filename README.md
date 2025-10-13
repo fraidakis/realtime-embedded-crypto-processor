@@ -165,7 +165,7 @@ ls plots/
 <div align="center">
 
 | Component | Thread Type | Priority Level | Function |
-|-----------|-------------|----------------|--------------|----------|
+|-----------|-------------|----------------|----------|
 | WebSocket Handler | Main | HIGH | API connection management and data ingestion |
 | JSON Parser | Worker | HIGH | Message parsing and validation |
 | Scheduler | Coordinator | REALTIME | Task timing and coordination |
@@ -306,7 +306,8 @@ Output: data/metrics/correlations/<SYMBOL>.csv
 *September 2025*
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:fraidakisg@gmail.com)
-[![University](https://img.shields.io/badge/University-AUTH-red)](https://www.auth.gr/)
+[![University](https://img.shields.io/badge/University-AUTH-red)](https://www.auth.gr/en/homepage/)
+[![Department](https://img.shields.io/badge/Department-ECE-orange)](https://ece.auth.gr/en/home/)
 
 </div>
 
