@@ -1,0 +1,12 @@
+.vscode
+build/
+versions/
+
+pi-data/
+report/
+results/
+assignment.md
+main.c
+Makefile
+plot.py
+realtime-embedded-crypto-processor
