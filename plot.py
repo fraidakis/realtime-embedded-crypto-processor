@@ -97,9 +97,9 @@ class CryptocurrencyTradingSystemVisualizer:
         
         if len(path_parts) >= 2 and path_parts[-1] == 'data':
             parent_dir = path_parts[-2]
-            return f'results/{parent_dir}'
+            return f'plots/{parent_dir}'
         else:
-            return 'results'    
+            return 'plots'    
         
     def _setup_plot_style(self):
         """
