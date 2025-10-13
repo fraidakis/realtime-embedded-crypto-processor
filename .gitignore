@@ -4,7 +4,7 @@ versions/
 /main.c
 data/116-hours
 data/62-hours/data/trades
-data/62-hours/data/performance
+data/62-hours/data/performance/latency.csv
 
 report/*
 !report/*.tex
