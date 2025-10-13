@@ -2,8 +2,9 @@
 build/
 versions/
 /main.c
-data/
 data/116-hours
+data/62-hours/data/trades
+data/62-hours/data/performance
 
 report/*
 !report/*.tex
