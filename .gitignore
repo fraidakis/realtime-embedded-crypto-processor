@@ -2,7 +2,10 @@
 build/
 versions/
 /main.c
-data/116-hours
+
+data/116-hours/data/performance/latency.csv
+data/116-hours/data/trades/
+
 data/62-hours/data/trades/*
 !data/62-hours/data/trades/ADA-USDT.jsonl
 

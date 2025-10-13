@@ -1,0 +1,177 @@
+[2025/10/01 01:08:16:4009] U: Connection attempt started, entering service loop
+[2025/10/01 01:08:17:4479] U: LWS: connected
+[2025/10/01 01:08:17:4491] U: LWS: subscription message sent
+[2025/10/01 03:00:52:7495] U: LWS: connection lost
+[2025/10/01 03:00:52:7512] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/01 03:00:54:7779] U: Connection attempt started, entering service loop
+[2025/10/01 03:00:55:6060] U: LWS: connected
+[2025/10/01 03:00:55:6069] U: LWS: subscription message sent
+[2025/10/01 16:27:49:7648] U: LWS: connection lost
+[2025/10/01 16:27:49:7744] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/01 16:27:51:8034] U: Connection attempt started, entering service loop
+[2025/10/01 16:27:53:5728] U: LWS: connected
+[2025/10/01 16:27:53:5736] U: LWS: subscription message sent
+[2025/10/01 17:14:41:3760] U: LWS: connection lost
+[2025/10/01 17:14:41:3777] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/01 17:14:48:4650] U: Connection attempt started, entering service loop
+[2025/10/01 17:14:49:4748] U: LWS: connected
+[2025/10/01 17:14:49:4756] U: LWS: subscription message sent
+[2025/10/01 19:08:45:7063] U: LWS: connection lost
+[2025/10/01 19:08:45:7098] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/01 19:08:47:7591] U: Connection attempt started, entering service loop
+[2025/10/01 19:08:48:6603] U: LWS: connected
+[2025/10/01 19:08:48:6678] U: LWS: subscription message sent
+[2025/10/02 05:37:21:3471] U: LWS: connection lost
+[2025/10/02 05:37:21:3502] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 05:37:23:4128] U: Connection attempt started, entering service loop
+[2025/10/02 05:37:24:2635] U: LWS: connected
+[2025/10/02 05:37:24:2644] U: LWS: subscription message sent
+[2025/10/02 07:53:10:0782] U: LWS: connection lost
+[2025/10/02 07:53:10:0824] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 07:53:12:1482] U: Connection attempt started, entering service loop
+[2025/10/02 07:53:13:1748] U: LWS: connected
+[2025/10/02 07:53:13:1755] U: LWS: subscription message sent
+[2025/10/02 07:55:21:5934] U: LWS: connection lost
+[2025/10/02 07:55:21:5951] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 07:55:24:0188] U: Connection attempt started, entering service loop
+[2025/10/02 07:55:25:2052] U: LWS: connected
+[2025/10/02 07:55:25:2060] U: LWS: subscription message sent
+[2025/10/02 09:54:33:7123] U: LWS: connection lost
+[2025/10/02 09:54:33:7140] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 09:54:37:6174] U: Connection attempt started, entering service loop
+[2025/10/02 09:54:38:6705] U: LWS: connected
+[2025/10/02 09:54:38:6716] U: LWS: subscription message sent
+[2025/10/02 10:08:16:0692] U: LWS: connection lost
+[2025/10/02 10:08:16:0709] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 10:08:19:1902] U: Connection attempt started, entering service loop
+[2025/10/02 10:08:20:0074] U: LWS: connected
+[2025/10/02 10:08:20:0083] U: LWS: subscription message sent
+[2025/10/02 10:14:38:8612] U: LWS: connection lost
+[2025/10/02 10:14:38:8629] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 10:14:41:9525] U: Connection attempt started, entering service loop
+[2025/10/02 10:14:42:7886] U: LWS: connected
+[2025/10/02 10:14:42:7901] U: LWS: subscription message sent
+[2025/10/02 10:24:02:9940] U: LWS: connection lost
+[2025/10/02 10:24:02:9962] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 10:24:06:0868] U: Connection attempt started, entering service loop
+[2025/10/02 10:24:06:9406] U: LWS: connected
+[2025/10/02 10:24:06:9418] U: LWS: subscription message sent
+[2025/10/02 10:30:35:3933] U: LWS: connection lost
+[2025/10/02 10:30:35:3953] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 10:30:39:5205] U: Connection attempt started, entering service loop
+[2025/10/02 10:30:40:3657] U: LWS: connected
+[2025/10/02 10:30:40:3665] U: LWS: subscription message sent
+[2025/10/02 18:40:07:7932] U: LWS: connection lost
+[2025/10/02 18:40:07:7949] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 18:40:09:9051] U: Connection attempt started, entering service loop
+[2025/10/02 18:40:10:7483] U: LWS: connected
+[2025/10/02 18:40:10:7495] U: LWS: subscription message sent
+[2025/10/02 20:30:03:8593] U: LWS: connection lost
+[2025/10/02 20:30:03:8610] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 20:30:05:9268] U: Connection attempt started, entering service loop
+[2025/10/02 20:30:06:9206] U: LWS: connected
+[2025/10/02 20:30:06:9217] U: LWS: subscription message sent
+[2025/10/02 21:23:02:7359] U: LWS: connection lost
+[2025/10/02 21:23:02:7405] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 21:23:04:7982] U: Connection attempt started, entering service loop
+[2025/10/02 21:23:05:8120] U: LWS: connected
+[2025/10/02 21:23:05:8131] U: LWS: subscription message sent
+[2025/10/02 21:47:55:2720] U: LWS: connection lost
+[2025/10/02 21:47:55:2760] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 21:47:57:3269] U: Connection attempt started, entering service loop
+[2025/10/02 21:47:58:1841] U: LWS: connected
+[2025/10/02 21:47:58:1894] U: LWS: subscription message sent
+[2025/10/02 23:15:20:6259] U: LWS: connection lost
+[2025/10/02 23:15:20:6283] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/02 23:15:22:6724] U: Connection attempt started, entering service loop
+[2025/10/02 23:15:23:4915] U: LWS: connected
+[2025/10/02 23:15:23:4924] U: LWS: subscription message sent
+[2025/10/03 01:28:12:5325] U: LWS: connection lost
+[2025/10/03 01:28:12:5364] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/03 01:28:14:5837] U: Connection attempt started, entering service loop
+[2025/10/03 01:28:15:6221] U: LWS: connected
+[2025/10/03 01:28:15:6232] U: LWS: subscription message sent
+[2025/10/03 01:43:57:4780] U: LWS: connection lost
+[2025/10/03 01:43:57:4823] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/03 01:43:59:5262] U: Connection attempt started, entering service loop
+[2025/10/03 01:44:00:4582] U: LWS: connected
+[2025/10/03 01:44:00:4593] U: LWS: subscription message sent
+[2025/10/03 05:43:00:5762] U: LWS: connection lost
+[2025/10/03 05:43:00:5827] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/03 05:43:02:6429] U: Connection attempt started, entering service loop
+[2025/10/03 05:43:03:5706] U: LWS: connected
+[2025/10/03 05:43:03:5719] U: LWS: subscription message sent
+[2025/10/03 09:54:25:2422] U: LWS: connection lost
+[2025/10/03 09:54:25:2442] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/03 09:54:27:3429] U: Connection attempt started, entering service loop
+[2025/10/03 09:54:28:1605] U: LWS: connected
+[2025/10/03 09:54:28:1614] U: LWS: subscription message sent
+[2025/10/03 10:10:25:0348] U: LWS: connection lost
+[2025/10/03 10:10:25:0386] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/03 10:10:27:0804] U: Connection attempt started, entering service loop
+[2025/10/03 10:10:27:9105] U: LWS: connected
+[2025/10/03 10:10:27:9114] U: LWS: subscription message sent
+[2025/10/03 18:39:38:0965] U: LWS: connection lost
+[2025/10/03 18:39:38:0998] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/03 18:39:40:1466] U: Connection attempt started, entering service loop
+[2025/10/03 18:39:41:0657] U: LWS: connected
+[2025/10/03 18:39:41:0665] U: LWS: subscription message sent
+[2025/10/03 18:47:33:7458] U: LWS: connection lost
+[2025/10/03 18:47:33:7473] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/03 18:47:35:9144] U: Connection attempt started, entering service loop
+[2025/10/03 18:47:36:7402] U: LWS: connected
+[2025/10/03 18:47:36:7410] U: LWS: subscription message sent
+[2025/10/03 20:41:11:4504] U: LWS: connection lost
+[2025/10/03 20:41:11:4523] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/03 20:41:13:4919] U: Connection attempt started, entering service loop
+[2025/10/03 20:41:14:3299] U: LWS: connected
+[2025/10/03 20:41:14:3338] U: LWS: subscription message sent
+[2025/10/05 04:27:17:0483] U: LWS: connection lost
+[2025/10/05 04:27:17:0563] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/05 04:27:19:1045] U: Connection attempt started, entering service loop
+[2025/10/05 04:27:20:1583] U: LWS: connected
+[2025/10/05 04:27:20:1597] U: LWS: subscription message sent
+[2025/10/05 04:49:12:3468] U: LWS: connection lost
+[2025/10/05 04:49:12:3500] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/05 04:49:15:6036] U: Connection attempt started, entering service loop
+[2025/10/05 04:49:16:4483] U: LWS: connected
+[2025/10/05 04:49:16:4494] U: LWS: subscription message sent
+[2025/10/05 05:04:06:3741] U: LWS: connection lost
+[2025/10/05 05:04:06:3800] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/05 05:04:08:4224] U: Connection attempt started, entering service loop
+[2025/10/05 05:04:09:4085] U: LWS: connected
+[2025/10/05 05:04:09:4099] U: LWS: subscription message sent
+[2025/10/06 03:31:05:4444] U: LWS: connection lost
+[2025/10/06 03:31:05:4460] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/06 03:31:08:3839] U: Connection attempt started, entering service loop
+[2025/10/06 03:31:09:2122] U: LWS: connected
+[2025/10/06 03:31:09:2131] U: LWS: subscription message sent
+[2025/10/06 03:55:17:5136] U: LWS: connection lost
+[2025/10/06 03:55:17:5169] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/06 03:55:19:5600] U: Connection attempt started, entering service loop
+[2025/10/06 03:55:20:3904] U: LWS: connected
+[2025/10/06 03:55:20:3915] U: LWS: subscription message sent
+[2025/10/06 20:13:05:6805] U: LWS: connection lost
+[2025/10/06 20:13:05:6857] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/06 20:13:07:7330] U: Connection attempt started, entering service loop
+[2025/10/06 20:13:08:7805] U: LWS: connected
+[2025/10/06 20:13:08:7817] U: LWS: subscription message sent
+[2025/10/07 13:50:21:8818] U: LWS: connection lost
+[2025/10/07 13:50:21:8847] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/07 13:50:23:9329] U: Connection attempt started, entering service loop
+[2025/10/07 13:50:24:8807] U: LWS: connected
+[2025/10/07 13:50:24:8814] U: LWS: subscription message sent
+[2025/10/07 14:09:54:1799] U: LWS: connection lost
+[2025/10/07 14:09:54:1811] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/07 14:09:56:2253] U: Connection attempt started, entering service loop
+[2025/10/07 14:09:57:1173] U: LWS: connected
+[2025/10/07 14:09:57:1182] U: LWS: subscription message sent
+[2025/10/07 15:55:31:0030] U: LWS: connection lost
+[2025/10/07 15:55:31:0047] E: Connection failed, retry 1/8 - waiting 2s
+[2025/10/07 15:55:33:0402] U: Connection attempt started, entering service loop
+[2025/10/07 15:55:33:8663] U: LWS: connected
+[2025/10/07 15:55:33:8672] U: LWS: subscription message sent
+[2025/10/07 22:33:16:1242] U: LWS: connection closed
+
+Graceful termination initiated...
+Program terminated gracefully.
