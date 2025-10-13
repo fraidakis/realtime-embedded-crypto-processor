@@ -5,5 +5,8 @@ versions/
 data/
 data/116-hours
 
-report/
+report/*
+!report/*.tex
+!report/*.pdf
+
 assignment.md
