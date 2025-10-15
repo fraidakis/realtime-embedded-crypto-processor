@@ -7,7 +7,7 @@
 [![Language](https://img.shields.io/badge/language-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Performance](https://img.shields.io/badge/latency-sub--millisecond-yellow)](README.md)
 
-*A high-performance, real-time cryptocurrency trade data processor optimized for resource-constrained embedded systems*
+*A real-time cryptocurrency trade data processor optimized for resource-constrained embedded systems*
 
 </div>
 
@@ -292,7 +292,7 @@ Output: data/metrics/correlations/<SYMBOL>.csv
 
 | Document | Description |
 |----------|-------------|
-| `report/report.tex` | Comprehensive technical documentation |
+| `report/report.pdf` | Comprehensive technical documentation |
 | `plots/` | Performance analysis visualizations |
 | `Makefile` | Build system configuration |
 
